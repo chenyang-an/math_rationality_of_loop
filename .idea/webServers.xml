@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66fa7a98-e628-451d-b9ed-9c8d30ea4ec2" name="ds-serv8">
+        <fileTransfer rootFolder="/home/c5an/rationality_of_loop" accessType="SFTP" host="ds-serv8.ucsd.edu" port="31849" sshConfigId="1e1b4d4c-92fc-4867-87f4-01acde4f9e4a" sshConfig="c5an@ds-serv8.ucsd.edu:31849 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
